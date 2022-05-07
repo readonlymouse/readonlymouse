@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @readonlymouse
-- 👀 I’m interested in accessing private repos in a read-only manner
+- 👀 I’m interested in accessing private repos that only I have access to in a read-only manner
 - 🌱 I’m currently learning how to stay in line and not break rules
 - 💞️ I’m looking to collaborate on stuff like sending info here and there
 - 📫 How to reach me : shout
